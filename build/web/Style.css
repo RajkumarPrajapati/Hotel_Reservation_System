@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2020, 2:08:27 PM
+    Author     : Rajkumar
+*/
+body{
+    background-color:white;
+    font-family: serif;
+    
+}
+.header{
+    background-color:tomato;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.register-container{
+    
+    height: 30vh;
+    width: 100%;
+}
+
+.login-container{
+    height: 60vh;
+    width: 100%;
+}
+.login{
+    color:white;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(images/Home.jpg);
+}
+.room{
+    height:350px;
+    width: 400px;
+    margin-top:100px;
+    
+}
+.upload{
+    margin-top: 50px;
+    height: 70px;
+    width: 400px;
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 10px;
+}
+.abc{
+    text-align: center;
+    padding: 12px;
+    background-color: blueviolet;
+    width: 400px;
+    margin-left: 37%;
+    margin-top: 40px;
+    border-radius: 30px;
+    
+}
+
+
