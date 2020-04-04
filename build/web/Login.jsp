@@ -48,7 +48,7 @@
                        <div class="form-group">
                        <input type="text" class="form-control" name="username" id="username" placeholder="Username"  style='border-radius: 30px'/><br/>
                        <input type="password" class="form-control" name="password" id="password" placeholder="Password" style='border-radius: 30px'/><br/>
-                       <input type="submit" class=" form-control btn btn-primary" style="border-radius: 30px">
+                       <input type="submit" class=" form-control btn btn-primary" style="border-radius: 30px" value="Login">
                        <p class="mt-3 font-weight-normal">Don't have an account <a href='register.jsp'><strong>Register Now</strong></a></p>
                        </div>
                    </form>

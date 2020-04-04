@@ -56,7 +56,7 @@
                             <input type='password' class="form-control" name="password" id='password' placeholder="Create Password" style='border-radius: 30px'><br/>
                             <input type='text' class='form-control' name='city' id='city' placeholder="City Name" style="border-radius: 30px"><br/>
                             <select name='state' id='state'class='form-control' style="border-radius: 30px">
-                                <option selected>Select</option>
+                                <option selected>Select Your State</option>
                                 <option>Maharashtra</option>
                                 <option>Kolkata</option>
                                 <option>Madhya Pradesh</option>
